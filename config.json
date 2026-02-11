@@ -1,1 +1,7 @@
-m
+{
+    "bot_token": "",
+    "developer_username": "BD_0I",
+    "auto_upload": false,
+    "max_file_size": 50,
+    "allowed_extensions": []
+}
